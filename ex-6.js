@@ -1,6 +1,6 @@
 //Start coding here
-const fruits = ["apple", "banana", "orange"];
+const fruit = ["apple", "banana", "orange"];
 
-console.log("First Fruit: " + fruits[1]);
+console.log("First Fruit: " + fruit[1]);
 console.log("Second Fruit: " + fruit[2]);
-console.log("Third Fruit: " + fruits[3]);
+console.log("Third Fruit: " + fruit[3]);
